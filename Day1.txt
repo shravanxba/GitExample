@@ -1,2 +1,3 @@
 This is the first line of the first document within a Git tracked folder.
 This is the second line in the file for the second commit.
+This is the third line on the file.
