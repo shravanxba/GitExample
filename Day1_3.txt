@@ -1,1 +1,2 @@
 First line in the third file.
+Second line in the third file. Also, Max's gonna win the championship this year!
